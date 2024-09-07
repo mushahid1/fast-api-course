@@ -73,8 +73,15 @@ ACCESS_TOKEN_EXPIRE_MINUTES = 60(base)
  
 
 ### Thanks to Sanjeev for great course, here is the link of the playlist on youtube you can learn all about FASTAPI
- 
+
+### Part One 
 <div id="badges">
   <a href="https://www.youtube.com/watch?v=Yw4LmMQXXFs&list=PL8VzFQ8k4U1L5QpSapVEzoSfob-4CR8zM">
+    <img src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630" alt="youtube Badge"/>
+  </a>  
+
+### Part Two 
+<div id="badges">
+  <a href="https://www.youtube.com/watch?v=1N0nhahVdqs">
     <img src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630" alt="youtube Badge"/>
   </a>  
