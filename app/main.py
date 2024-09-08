@@ -3,7 +3,8 @@ from . import models
 from .database import engine
 from .routers import post, user, auth, votes
 
-models.Base.metadata.create_all(bind=engine)
+# As we have alembi installed nnow we don't need to create models/tables
+# models.Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 

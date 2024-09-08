@@ -28,7 +28,7 @@ git clone https://github.com/mushahid1/fast-api-course.git
 then 
 ````
 
-cd fastapi-course
+cd fast-api-course
 
 ````
 
